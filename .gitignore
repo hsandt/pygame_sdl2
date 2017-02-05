@@ -8,3 +8,4 @@ sdl2.i
 dist/
 gen3/
 .idea/
+*.egg-info/
